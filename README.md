@@ -18,8 +18,18 @@ for the best game.
 HTML, CSS, PHP, SQL, JavaSCript
 
 ## Contributors:
-Damian Browne
-Michael Reza
+* Damian Browne
+  * Game Programming (JavaScript)
+  * Game Design
+  * Art
+  * Web Interface and Server-Side (PHP & SQL)
+    * Login System
+    * Highscores List
+  * 
+* Michael Reza
+  * Game Programming (JavaScript)
+  * Game Design
+  * Lobby Structure (HTML & CSS)
 
 ## Inspired by:
 K'tah by Andrew Forney - [GitHub Repository](https://github.com/Forns/ktah)
