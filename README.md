@@ -1,7 +1,6 @@
 # K'not Origins!
 
-## Play now at:
-[dbrowne.lmu.build/knorigins](dbrowne.lmu.build/knorigins)
+Play now at: [dbrowne.lmu.build/knorigins](dbrowne.lmu.build/knorigins)
 
 ## Description:
 K'not is a two-dimensional online singleplayer and multiplayer browser
@@ -18,7 +17,7 @@ for the best game.
 HTML, CSS, PHP, SQL, JavaSCript
 
 ## Contributors:
-* Damian Browne
+* Damián Browne
   * Game Programming (JavaScript)
   * Game Design
   * Art
