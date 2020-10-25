@@ -6,14 +6,14 @@ Orignally the final project for CMSI 185 with Dr. Andrew Forney at Loyola Marymo
 
 ## Description:
 K'not is a two-dimensional online singleplayer and multiplayer browser
-game that employs a top-down interface of players surviving rounds of
-a zombie onslaught. Equipped with two unique character classes, players
+game with a top-down environment for players to navigate, surviving rounds
+of a zombie onslaught. Equipped with two unique character classes, players
 can use their abilities to protect themselves from enemy zombies (two
 enemy types) alone, or with a friend (on the same client). Each round
-offers an opportunity to advance progress towards a cure and a healing
-potion. Upon death or when the cure is found, the users high score is
+offers an opportunity to advance progress towards a cure and to restore health
+with a healing potion. Upon death or when the cure is found, the users high score is
 automatically uploaded to a highscores list, where players can compete
-for the best game.
+to have the top rank.
 
 ## Languages used:
 HTML, CSS, PHP, SQL, JavaSCript
