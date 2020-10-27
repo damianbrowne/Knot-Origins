@@ -26,7 +26,7 @@ HTML, CSS, PHP, SQL, JavaSCript
   * Web Interface and Server-Side (PHP & SQL)
     * Login System
     * Highscores List
-  * 
+
 * Michael Reza
   * Game Programming (JavaScript)
   * Game Design
