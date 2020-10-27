@@ -38,4 +38,4 @@ to have the top rank.
   * Lobby Structure (HTML & CSS)
 
 ## References
-K'tah by [Andrew Forney](forns.lmu.build) - [GitHub Repository](https://github.com/Forns/ktah)
+[K'tah](https://github.com/Forns/ktah) by [Andrew Forney](forns.lmu.build)
