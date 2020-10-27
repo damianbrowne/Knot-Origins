@@ -4,7 +4,7 @@ Play now at: [dbrowne.lmu.build/knorigins](dbrowne.lmu.build/knorigins)
 
 Orignally the final project for CMSI 185 with Dr. Andrew Forney at Loyola Marymount University.
 
-## Description:
+## Description
 K'not is a two-dimensional online singleplayer and multiplayer browser
 game with a top-down environment for players to navigate, surviving rounds
 of a zombie onslaught. Equipped with two unique character classes, players
@@ -15,11 +15,16 @@ with a healing potion. Upon death or when the cure is found, the users high scor
 automatically uploaded to a highscores list, where players can compete
 to have the top rank.
 
-## Languages used:
-HTML, CSS, PHP, SQL, JavaSCript
+## Languages & Libraries
+* Languages
+ * HTML
+ * CSS
+ * PHP
+ * SQL
+ * JavaScript
 
-## Contributors:
-* Damián Browne
+## Contributors
+* [Damián Axel Browne](https://github.com/damianbrowne)
   * Game Programming (JavaScript)
   * Game Design
   * Art
@@ -32,5 +37,5 @@ HTML, CSS, PHP, SQL, JavaSCript
   * Game Design
   * Lobby Structure (HTML & CSS)
 
-## Inspired by:
-K'tah by Andrew Forney - [GitHub Repository](https://github.com/Forns/ktah)
+## References
+K'tah by [Andrew Forney](forns.lmu.build) - [GitHub Repository](https://github.com/Forns/ktah)
